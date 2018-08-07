@@ -1,0 +1,40 @@
+body, html {
+	height: 100%;
+	font-family:Georgia, 'Times New Roman', Times, serif;
+	color: #777777;
+}
+.bg {
+	background-image: url("https://mdbootstrap.com/img/Photos/Horizontal/Nature/full page/img(20).jpg");
+
+	height: 100%;
+
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	
+}
+
+.navbar-brand {
+background-color: #4aaaac;
+color: #ffffff !important; 
+font-size: 34px;
+
+}
+
+main {
+	background-color: #dddfff;
+	margin-top: 25px;
+	width: cover;
+}
+
+article {
+	width: 900px;
+}
+
+h1 {
+color: #4aaaac;
+}
+
+.text {
+	margin-left: 20px;
+}
